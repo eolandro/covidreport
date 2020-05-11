@@ -23,11 +23,11 @@ del mismo modo los municipios.
 ``
 Estado = 22
 Municipios = {
-	"001":"Amealco   Bonfil",
-	"004":"Cadereyta Montes",
-	"007":"Ezequiel Montes ",
-	"012":"Pedro Escobedo  ", 
-	"016":"San Juan del Rio", 
-	"017":"Tequisquiapan   " 
+    "001":"Amealco   Bonfil",
+    "004":"Cadereyta Montes",
+    "007":"Ezequiel Montes ",
+    "012":"Pedro Escobedo  ", 
+    "016":"San Juan del Rio", 
+    "017":"Tequisquiapan   " 
 }
 ``
