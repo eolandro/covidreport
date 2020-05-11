@@ -8,11 +8,10 @@ Extrae datos por zonas de covid19 en mexico.
 * [Catálogos opcional](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
 
 # ¿Cómo se ejecuta?
-`
+``
 python3 covidqro.py <basedatos.csv>
 python3 covidqro2.py <basedatos.csv>
-
-`
+``
 # ¿Qué obtengo?
 una archivo llamado resumen.csv
 
@@ -21,7 +20,7 @@ una archivo llamado resumen.csv
 Modifica  la variable de Estado por el estado que corresponda (mira el catálogo) de gobierno,
 del mismo modo los municipios.
 
-`
+``
 Estado = 22
 Municipios = {
 	"001":"Amealco   Bonfil",
@@ -31,4 +30,4 @@ Municipios = {
 	"016":"San Juan del Rio", 
 	"017":"Tequisquiapan   " 
 }
-`
+``
