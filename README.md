@@ -10,6 +10,7 @@ Extrae datos por zonas de covid19 en mexico.
 # ¿Cómo se ejecuta?
 
 ``python3 covidqro.py <basedatos.csv>``
+
 ``python3 covidqro2.py <basedatos.csv>``
 
 # ¿Qué obtengo?
@@ -25,10 +26,15 @@ del mismo modo los municipios.
 ``Municipios = {``
 
 ``    "001":"Amealco   Bonfil",``
+
 ``    "004":"Cadereyta Montes",``
+
 ``    "007":"Ezequiel Montes ",``
+
 ``    "012":"Pedro Escobedo  ",``
+
 ``    "016":"San Juan del Rio",``
+
 ``    "017":"Tequisquiapan   "``
     
 ``}``
