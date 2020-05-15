@@ -13,6 +13,8 @@ Extrae datos por zonas de covid19 en mexico.
 
 ``python3 covidqro2.py <basedatos.csv>``
 
+``python3 covidqro3.py <basedatos.csv>``
+
 # ¿Qué obtengo?
 una archivo llamado resumen.csv
 
